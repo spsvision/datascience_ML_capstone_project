@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Capstone Project
 Capstone project analyzing 311 service statistics from the Department of Housing Preservation and Development of New York City.
-This project was picked up from [EDX.org](https://www.edx.org/course/data-science-and-machine-learning-capstone-project).
+This project was picked up from [EDX.org](https://www.edx.org/course/data-science-and-machine-learning-capstone-project). This is all a part of the IBM Data Science professional certificate
 
 Over which, four different questions were answered to assist the theoretical client (Department of Housing Preservation and Development):
 *  i) Identifying the top complaint type
